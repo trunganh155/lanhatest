@@ -1,0 +1,10 @@
+#container__canvas {
+  width: 70vw;
+  height: 80vh;
+}
+
+#myThreeJsCanvas {
+  position: absolute !important;
+  width: 70vw !important;
+  height: 80vh !important;
+}
